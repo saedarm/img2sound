@@ -25,27 +25,27 @@ https://code.visualstudio.com/download
 **For Core Development:
 "Go" by Go Team at Google**
 
-This provides our foundational Go support
-Includes the language server protocol integration
-Handles automatic imports and formatting
+- This provides our foundational Go support
+- Includes the language server protocol integration
+- Handles automatic imports and formatting
 
 
 **For Better Dependency Management:
 "Dependi" by Fill Labs**
 
-Visualizes dependency relationships
-Shows direct and indirect dependencies
-Helps identify potential dependency conflicts
-Creates interactive dependency graphs
+- Visualizes dependency relationships
+- Shows direct and indirect dependencies
+- Helps identify potential dependency conflicts
+- Creates interactive dependency graphs
 
 
 
 **For the .PNG File We're Using:
 "Image Preview" by Kiss Tamás**
 
-Essential for working with our spectrogram images
-Shows image dimensions and format details
-Provides quick visual feedback
+- Essential for working with our spectrogram images
+- Shows image dimensions and format details
+- Provides quick visual feedback
 
 
 
