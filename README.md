@@ -22,17 +22,16 @@ First, you'll need to install Go on your system. Follow these steps:
 https://code.visualstudio.com/download
 
 ### Recommended VS Code Extensions
-For Core Development:
-
-"Go" by Go Team at Google
+**For Core Development:
+"Go" by Go Team at Google**
 
 This provides our foundational Go support
 Includes the language server protocol integration
 Handles automatic imports and formatting
 
 
-
-"Dependi" by Fill Labs
+**For Better Dependency Management:
+"Dependi" by Fill Labs**
 
 Visualizes dependency relationships
 Shows direct and indirect dependencies
@@ -41,22 +40,13 @@ Creates interactive dependency graphs
 
 
 
-
-For working with our specific file types:
-"Image Preview" by Kiss Tamás
+**For the .PNG File We're Using:
+"Image Preview" by Kiss Tamás**
 
 Essential for working with our spectrogram images
 Shows image dimensions and format details
 Provides quick visual feedback
 
-
-For working with WAV stuff :
-
-"vscode-wav" by Josh Wyatt
-
-Helps us inspect our generated WAV files
-Shows waveform visualizations
-Useful for verifying audio output
 
 
 
