@@ -98,13 +98,7 @@ For testing, try creating these basic patterns:
    Expected Result: Clean, steady tone
    ```
 
-2. Frequency Sweep
-   ```
-   Width: 400px
-   Height: 200px
-   Pattern: Diagonal white line from bottom-left to top-right
-   Expected Result: Rising tone
-   ```
+
 
 ## Running the Program
 
